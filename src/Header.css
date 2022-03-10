@@ -1,0 +1,21 @@
+.header{
+  background-color:#FF5F15;
+  height: 90px;
+  
+  
+}
+ul{
+  display: flex;
+  justify-content: center;
+  justify-content:space-evenly;
+  list-style-type: none;
+  padding-top: 30px ;
+  font-size: 25px;
+}
+li a{
+  color: white;
+text-decoration: none;
+}
+li a:hover{
+  color: black;
+}
